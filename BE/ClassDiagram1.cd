@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BE.Dado">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAFAAABAAQAAAAEBAAAAAAAQAAAAAAAAAABAAA=</HashCode>
+      <FileName>Dado.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BE.Tirada">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Tirada.vb</FileName>
+      <NewMemberFileName>Jugada.vb</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Usuario">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAgAAAAACAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Usuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Jugador">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIFBwABAAAFAACAIACAgCLkQBAgAEAAAAAAI=</HashCode>
+      <FileName>Jugador.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BE.Partida">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAACACAA=</HashCode>
+      <FileName>Partida.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
